@@ -1,0 +1,12 @@
+[submodule "pulse-store-admin"]
+	path = pulse-store-admin
+	url = https://github.com/asifanwar1/pulse-store-admin.git
+[submodule "pulse-store-app"]
+	path = pulse-store-app
+	url = https://github.com/asifanwar1/pulse-store-app.git
+[submodule "pulse-store-backend"]
+	path = pulse-store-backend
+	url = https://github.com/asifanwar1/pulse-store-backend.git
+[submodule "pulse-store-web"]
+	path = pulse-store-web
+	url = https://github.com/asifanwar1/pulse-store-web.git
